@@ -15,8 +15,6 @@ Prism is coming with a variety of features that can be [read about more in the d
 
 ![](./PrismPreview.png)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Tlorien)
-
 - [✨ Release Notes](https://github.com/Tlorien/Prism/releases)
 
 ## Content
