@@ -1,4 +1,4 @@
-# Welcome to Prism Obsidian Theme 👋
+# Welcome to the Prism Obsidian Theme 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tlorien.Prism)
 ![Last Commit](https://img.shields.io/github/last-commit/Tlorien/Prism?style=for-the-badge)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen?style=for-the-badge)](https://github.com/Tlorien/Prism/wiki)
