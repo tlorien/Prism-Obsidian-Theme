@@ -1,16 +1,17 @@
 # Welcome to Prism Obsidian Theme 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tlorien.Prism)   [![Twitter: Tlorien](https://img.shields.io/twitter/follow/Tlorien.svg?style=social)](https://twitter.com/Tlorien)  
-![Last Commit](https://img.shields.io/github/last-commit/Tlorien/Prism?style=for-the-badge) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen?style=for-the-badge)](https://github.com/Tlorien/Prism/wiki)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Tlorien.Prism)
+![Last Commit](https://img.shields.io/github/last-commit/Tlorien/Prism?style=for-the-badge)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen?style=for-the-badge)](https://github.com/Tlorien/Prism/wiki)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-orange?style=for-the-badge)](https://github.com/Tlorien/Prism/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/Tlorien/Prism?style=for-the-badge)](https://github.com/Tlorien/Prism/blob/master/LICENSE)   
 
 ⚠️  
-⚠️ This theme is no longer maintained by me, but kept open for anyone to submit PRs for fixes and improvements.  
+⚠️ This theme is a work in progress and has not officiall released.
 ⚠️  
 
-Prism is a theme for Obsidian and is designed the way to boost productivity and to improve the App to the needs I am having at the time. As such styling decision are opinionated.
+Prism is a theme for Obsidian based on the now-defunct `Spectrum` theme, and it has been designed to boost productivity. As such it is a highly opinionated theme.
 
-Prism is coming with a variaty of features, like different checkboxes and support for image styling. [Read more in the documentation.](https://github.com/Tlorien/Prism/wiki)
+Prism is coming with a variety of features that can be [read about more in the documentation.](https://github.com/Tlorien/Prism/wiki)
 
 ![](./PrismPreview.png)
 
